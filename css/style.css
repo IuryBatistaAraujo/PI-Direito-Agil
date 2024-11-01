@@ -4353,7 +4353,7 @@ input[type="button"].btn-block {
 
 .navbar-expand > .container,
 .navbar-expand > .container-fluid, .navbar-expand > .container-sm, .navbar-expand > .container-md, .navbar-expand > .container-lg, .navbar-expand > .container-xl {
-  flex-wrap: nowrap;
+  flex-wrap: nowrap;url(http://127.0.0.1:5500/index.html)
 }
 
 .navbar-expand .navbar-collapse {
@@ -7580,7 +7580,8 @@ button.bg-dark:focus {
 }
 
 .m-0 {
-  margin: 0 !important;
+  margin: 0!important;
+  color: b;
 }
 
 .mt-0,
